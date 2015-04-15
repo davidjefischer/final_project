@@ -7,6 +7,7 @@ Professor Horton
 this program will ask the user for number of miles driven
 and the number of gallons of gas used and will calculate and
 display the car's miles per gallon
+herpa derpa derp test change
 */
 
 import java.util.Scanner; //Scanner class
